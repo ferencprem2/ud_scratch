@@ -24,7 +24,7 @@ Top-down autós játék Scratch-ben, **smooth (tehetetlenséges)** irányításs
 
 ## 🖼️ Képernyőkép
 
-![Játék képernyőkép](<img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/94304eac-d72c-4fbc-ac7c-ecf53cdcf825" />)
+<img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/94304eac-d72c-4fbc-ac7c-ecf53cdcf825" />
 
 ---
 
