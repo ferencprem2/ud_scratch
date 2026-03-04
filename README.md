@@ -1,8 +1,44 @@
-Irányítás:
-  -w => gáz
-  -s => fék
-  -a => jobbra fordulás 
-  -d => jobbra fordulás
-  -h => duda
+# 🚗 Scratch Car Race
 
-  <img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/a924d761-403d-4d9d-8e60-ca2ca6e6666d" />
+Top-down autós játék Scratch-ben, **smooth (tehetetlenséges)** irányítással, minimappel.
+
+---
+
+## 🎮 Irányítás
+
+- **W** – gáz
+- **S** – fék
+- **A** – balra fordulás
+- **D** – jobbra fordulás
+- **H** – duda
+
+---
+
+## ✨ Funkciók
+
+- Smooth gyorsítás / lassulás (súrlódás)
+- Hangeffektek: duda
+- Minimap: a kocsi pozíciója piros ponttal követhető
+
+---
+
+## 🖼️ Képernyőkép
+
+![Játék képernyőkép](<img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/94304eac-d72c-4fbc-ac7c-ecf53cdcf825" />)
+
+---
+
+## 📦 Projektfájl
+
+- `scratch_car_game.sb3` – a Scratch projekt
+
+### Megnyitás Scratch-ben
+1. Scratch megnyitása
+2. **File → Load from your computer**
+3. Válaszd ki a `scratch_car_game.sb3` fájlt
+
+---
+
+## 🧑‍💻 Készítette
+
+- Név: *Prém Ferenc*  
